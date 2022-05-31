@@ -137,7 +137,7 @@ body {
 }
 
 /* Edit Task */
-.text-task {
+.task-list__item .text-task {
   display: none;
 }
 
